@@ -91,7 +91,7 @@ If you find this project useful:
 ## 📸 Screenshots
 
 <p>
-  <img src="[https://raw.githubusercontent.com/X-papillon/Advanced-Google-Dork-Builder/refs/heads/main/scrn1.png](https://raw.githubusercontent.com/X-papillon/Email-Extractor-Pro/refs/heads/main/email-extractor-pro.jpg)" width="500"/>
+  <img src="https://raw.githubusercontent.com/X-papillon/Email-Extractor-Pro/refs/heads/main/email-extractor-pro.jpg" width="500"/>
  </p>
 
 ---
