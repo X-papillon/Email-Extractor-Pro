@@ -10,26 +10,26 @@
 
 ## ✨ Features
 
-⚡ Extract emails from the current webpage instantly
-🧠 Smart duplicate removal
-💾 Auto-save emails using Chrome storage
-📤 Export emails to .txt file
-🧹 Clear all extracted emails with one click
-🎯 Clean and simple UI (no unnecessary inputs)
-🌙 Neon Dark Design for a modern hacker-style look
-🔒 100% offline — no data sent anywhere
+- ⚡ Extract emails from the current webpage instantly
+- 🧠 Smart duplicate removal
+- 💾 Auto-save emails using Chrome storage
+- 📤 Export emails to .txt file
+- 🧹 Clear all extracted emails with one click
+- 🎯 Clean and simple UI (no unnecessary inputs)
+- 🌙 Neon Dark Design for a modern hacker-style look
+- 🔒 100% offline — no data sent anywhere
 
 ---
 
 ### 📦 Installation
 
-git clone https://github.com/yourusername/email-extractor-pro.git
-Open Google Chrome
-Go to:
-chrome://extensions/
-Enable Developer Mode
-Click Load unpacked
-Select the project folder
+- git clone https://github.com/yourusername/email-extractor-pro.git
+- Open Google Chrome
+- Go to:
+- chrome://extensions/
+- Enable Developer Mode
+- Click Load unpacked
+- Select the project folder
 
 ---
 
@@ -59,10 +59,10 @@ Advanced-Google-Dork-Builder/
 
 ## 🛠️ Tech Stack
 
-HTML5
-CSS3 (Neon UI)
-JavaScript (Vanilla)
-Chrome Extension API (Manifest V3)
+- HTML5
+- CSS3 (Neon UI)
+- JavaScript (Vanilla)
+- Chrome Extension API (Manifest V3)
 
 ---
 
