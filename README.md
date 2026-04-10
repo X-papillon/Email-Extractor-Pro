@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/X-papillon/Email-Extractor-Pro/refs/heads/main/icons/128.png" width="50"/>  Email-Extractor-Pro
+# <img src="https://images2.imgbox.com/f8/8b/E7O6Jq5N_o.png" width="50"/>  Email-Extractor-Pro
 ### A powerful, fully offline Chrome Extension for extracting emails from any webpage instantly
 
 ![Version](https://img.shields.io/badge/version-4.0-blue)
@@ -91,7 +91,7 @@ If you find this project useful:
 ## 📸 Screenshots
 
 <p>
-  <img src="https://raw.githubusercontent.com/X-papillon/Email-Extractor-Pro/refs/heads/main/email-extractor-pro.jpg" width="500"/>
+  <img src="https://images2.imgbox.com/ec/74/MVIG8jED_o.jpg" width="500"/>
  </p>
 
 ---
